@@ -62,6 +62,7 @@ An **Android** & **Python** developer — creator of **NekoNote** 📝 and found
 
 | پروژه | توضیح |
 | :---: | :--- |
+| 🛡️ **[Afton VPN](https://github.com/Afton-programmer/Afton-VPN)** | اپلیکیشن VPN ضدسانسور اندروید — کلاینت V2Ray/Xray با تور واقعی (WebTunnel، Snowflake، obfs4)، رله‌های چرخشی Psiphon، MHRV و Foxy — Flutter + Material Design 3 |
 | 📝 **[NekoNote \| نیکو نوت](https://github.com/Afton-programmer/NekoNote)** | اپلیکیشن یادداشت‌برداری سریع و سبک برای اندروید؛ همیشه در حال آپدیت و رفع باگ — [دانلود از مایکت](https://myket.ir/app/www.aftonstudio.nekonote) |
 | 🐍 **[rubika\_delete\_message\_channel](https://github.com/Afton-programmer/rubika_delete_message_channel)** | اسکریپت پایتون برای حذف تمام پیام‌های یک کانال روبیکا، از اولین تا آخرین پیام |
 | 💼 **[سفارش پروژه](https://t.me/Afton_support)** | ساخت پنل، ربات و اپلیکیشن سفارشی — پاسخ‌گویی و تحویل سریع |
